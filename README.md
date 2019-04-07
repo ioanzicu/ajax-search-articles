@@ -16,12 +16,12 @@ This app is an learning project of AJAX using 3 different way to do it:
 
 * Unsplash
 
-    Create a developer account here - https://unsplash.com/developers
+    Create a developer account here - https://unsplash.com/developers <b/>
     Next, create an application and you will receive an "Application ID" that you'll need to make requests
 
 * The New York Times
 
-    Create a developer account here - https://developer.nytimes.com/
+    Create a developer account here - https://developer.nytimes.com/ <b/>
     Create an application and you will receive an api-key
 
 Insert the Unsplash "Application ID" in url: 'Client-ID <YOUR CLIENT-ID>'
