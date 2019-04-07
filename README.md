@@ -16,16 +16,16 @@ This app is an learning project of AJAX using 3 different way to do it:
 
 * Unsplash
 
-    Create a developer account here - https://unsplash.com/developers <b/>
+    Create a developer account here - https://unsplash.com/developers <br />
     Next, create an application and you will receive an "Application ID" that you'll need to make requests
 
 * The New York Times
 
-    Create a developer account here - https://developer.nytimes.com/ <b/>
+    Create a developer account here - https://developer.nytimes.com/ <br />
     Create an application and you will receive an api-key
 
-Insert the Unsplash "Application ID" in url: 'Client-ID <YOUR CLIENT-ID>'
-Insert The New York Times api-key in the url:  `http://api.nytimes.com/svc/search/v2/articlesearch.json?q=${searchedForText}&api-key=<YOUR API-KEY>`
+Insert the Unsplash "Application ID" in url: <b>'Client-ID <YOUR CLIENT-ID>'</b>
+Insert The New York Times api-key in the url:  `http://api.nytimes.com/svc/search/v2/articlesearch.json?q=${searchedForText}&api-key=<b><YOUR API-KEY></b>`
 
 ## Built With
 
