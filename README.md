@@ -12,14 +12,14 @@ This app is an learning project of AJAX using 3 different way to do it:
 
 ## Prerequisits
 
-##Create Your Accounts on Unsplash and The New York Times.
+### Create Your Accounts on Unsplash and The New York Times.
 
-1) Unsplash
+* Unsplash
 
     Create a developer account here - https://unsplash.com/developers
     Next, create an application and you will receive an "Application ID" that you'll need to make requests
 
-2) The New York Times
+* The New York Times
 
     Create a developer account here - https://developer.nytimes.com/
     Create an application and you will receive an api-key
